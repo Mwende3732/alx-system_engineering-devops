@@ -1,2 +1,2 @@
 #!/bin/bash
-export PATH="/action: $PATH"
+export PATH="$alx-system_engineering-devops-1/action: $PATH"
